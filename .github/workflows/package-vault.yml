@@ -1,0 +1,23 @@
+name: Package StudyVault
+on:
+  push:
+    branches: [main]
+    paths: ['StudyVault/**', 'scripts/package_vault.py', '.github/workflows/package-vault.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python scripts/package_vault.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Materials-Science-StudyVault
+          path: Materials-Science-StudyVault.zip
+          if-no-files-found: error
+          retention-days: 90

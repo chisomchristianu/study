@@ -1,0 +1,218 @@
+Slide 2: Lecture Framework Food or drinks are okay, but quiet Problems: with childcare disadvantage compensation discrimination language-related ... Questions
+
+Slide 3: Organization Exam: 40 minutes Questions by email; consultations on request
+
+Slide 4: Content according to the module handbook Classification of materials Material properties Material structure, microstructure, alloys, lattice defects Ideal and real phase diagrams, equilibrium and non-equilibrium states Heat treatment, hardening processes
+
+Slide 5: Context Materials engineering, right nowcand future? Climate, sustainability, and what that means for engineers
+
+Slide 6: 
+
+Slide 6: The climate - global situation 2024 : first calendar year more than 1.5 °C above pre-industrial levels (Copernicus) The last ten years are the warmest since records began Paris Agreement: warming well below 2 °C, ideally 1.5 °C Sources: Copernicus Global Climate Highlights | IPCC AR6 |
+Warming Stripes: showyourstripes.info
+
+Slide 6: 
+
+Slide 7: The climate - Germany Annual mean temperature since 1881: approx. +1.8 °C - stronger than the global average Record: 41.2 °C (Lingen, July 2019) Hot days (≥ 30 °C): from about 3 per year (1950s) to around 10 per year today More heavy rainfall, longer dry and heat periods Fewer frost days, but freeze-thaw cycles continue Sources: Deutscher Wetterdienst | Umweltbundesamt - Climate impacts
+
+Slide 8: Extreme weather - examples from Germany Event Consequences related to materials Elbe floods 2002 and 2013 (incl. Magdeburg) Dikes, bridges, buildings, corrosion and moisture ingress Heat and drought summers 2018, 2019, 2022 Rail buckling, road damage, low water levels Low water on the Rhine 2018 Transport problems, reduced chemical production Ahr valley flood 2021 Destroyed bridges and infrastructure, more than 180 deaths Hailstorms Damage to PV modules, vehicles, façades
+
+Slide 9: Two sides of the same coin 1. Materials production drives climate change and causes ecological and social harm Producing steel, cement, aluminium, and plastics is extremely energy- and CO₂-intensive Whoever selects materials decides about emissions Raw material extraction often happens under inhumane conditions, e.g. child labour in small-scale cobalt mining (DR Congo)
+
+Slide 10: 
+
+Slide 10: 2. Climate change is changing the requirements on materials Higher temperatures, more extreme weather Materials must cope with the changed conditions - components designed today will still be in service in 2050-2080 Yesterday's technical standards and design values don't automatically fit tomorrow's climate, and don't capture social aspects
+
+Slide 10: 
+
+Slide 11: The social and ecological side of raw materials Raw material Use Problem Cobalt (DR Congo) Batteries, superalloys Child labour and lacking occupational safety in small-scale mining Lithium (e.g. Atacama) Batteries Water consumption in arid regions, conflicts with indigenous communities Bauxite / aluminium Lightweight design Red mud, land use Iron ore Steel Tailings dam failures (Brumadinho, Brazil 2019: around 270 deaths) Rare earths Magnets (wind power, e-motors) Radioactive and chemical residues Regulation - still being built up Supply Chain Due Diligence Act (LkSG) in Germany, EU Corporate Sustainability Due Diligence Directive (CSDDD) Due diligence obligations for raw materials under the EU Battery Regulation Scope and timelines are currently being weakened or delayed in places Sources: Amnesty International (2016): This is what we die for | BAFA - LkSG
+
+Slide 12: Europe and Germany - the policy framework EU 2030 : -55 % greenhouse gases (vs. 1990) 2050 : climate neutrality CO₂ border adjustment CBAM : liable to payment since 2026 for steel, aluminium, cement, fertilizer, etc. Ecodesign for Sustainable Products Regulation (ESPR): durability, repairability, recycled content, digital product passport Battery Regulation: battery passport from 2027, recycling quotas Germany (Climate Protection Act) 2030 : -65 %, 2040 : -88 %, 2045 : climate neutrality Sources: EU Climate Action | EU CBAM | German Federal Government - KSG
+
+Slide 13: Carbon footprint of materials Material CO₂-equivalent per kg (primary, rough) With recycling Steel (blast furnace) approx. 2 kg Electric-arc steel from scrap: approx. 0.4-0.7 kg Aluminium approx. 8-16 kg (strongly electricity-dependent) Secondary aluminium: approx. 0.5-1 kg Cement approx. 0.6-0.9 kg - Plastics (PE, PP) approx. 2-3 kg Mechanical recycling significantly less Carbon fibres approx. 20-40 kg Recycled fibres significantly less Recycling is not optional extra credit - it is one of the most effective levers an engineer has to cut a component's carbon footprint , often more effective than optimizing the manufacturing process itself. Sources: IPCC AR6 WGIII Ch. 11 | worldsteel | European Aluminium
+
+Slide 14: Circular economy in materials engineering Design for disassembly : joints and material combinations that can be separated again (e.g. bolted instead of glued/mixed-material laminated) Material passports : digital record of composition, origin, and recyclability, required by the EU from 2027 (batteries) onward Closed-loop vs. open-loop recycling : closed-loop keeps material quality (e.g. can-to-can aluminium); open-loop downgrades it (e.g. mixed plastics to lower-grade products) Material choice today determines whether a component can even re-enter the loop at end of life
+
+Slide 15: What does heat mean for materials? Key material properties are temperature-dependent
+
+Slide 16: Temperature changes (almost) all properties Elastic modulus and strength decrease with increasing temperature Creep : permanent deformation under constant load - in plastics already at room temperature, in metals at high temperatures Glass transition temperature : plastics soften above this point (e.g. PVC approx. 80 °C) Thermal expansion : constrained expansion generates stresses Ageing and corrosion accelerate
+
+Slide 17: How hot does it actually get? Air temperature ≠ component temperature Component Air 35 °C, sun Consequence Rail above 60 °C Rail buckling Asphalt 50-70 °C Rutting, softening PV module 60-80 °C Loss of efficiency and lifetime Car interior (dashboard) 80-100 °C Plastics near , outgassing Battery cell without cooling critical from approx. 45-60 °C accelerated ageing
+
+Slide 18: Not just climate: ageing infrastructure Collapse of the Carola bridge in Dresden (September 2024) Cause according to the expert report: stress corrosion cracking in the prestressing steel, promoted by chloride ingress Many German bridges from the 1960s-80s use similar materials Material failure often gives no visible warning Questions for the future: How do heat, moisture, and salt change service life? How do we monitor components (monitoring, non-destructive testing)?
+
+Slide 19: Where is this heading? Material selection is becoming multi-dimensional strength and cost only → strength + cost + CO₂ + circularity + climate resilience Technological trends Green steel, secondary aluminium, low-CO₂ cement Lightweight design (fibre composites, high-strength steels) for mobility and wind energy Hydrogen technology: materials resistant to hydrogen embrittlement Materials for higher temperatures and longer service life Design for recycling, digital product passport Simulation and digital twins for service-life prediction
+
+Slide 20: What does this mean for you? Always read design values together with their boundary conditions : temperature, moisture, time, loading rate Design for the entire service life - and for the climate the component will actually operate in The material choice accounts for a large share of a product's carbon footprint Recyclability and disassembly should be design criteria from day one , not an afterthought once the part already exists These are exactly the fundamentals you will learn in this course: properties, microstructure, heat treatment, testing
+
+Slide 21: Materials What are materials? Materials in the narrow sense are solid-state materials that can be used to make components and constructions.
+
+Slide 22: Application areas Metals Iron, steel, cast iron Non-ferrous metals Plastics Ceramics Composite materials
+
+Slide 23: 
+
+Slide 23: 
+
+Slide 23: 
+
+Slide 24: 
+
+Slide 24: Cast iron - steel
+
+Slide 24: 
+
+Slide 25: 
+
+Slide 25: Non-ferrous metals Copper is a very good electrical and thermal conductor
+
+Slide 25: 
+
+Slide 26: 
+
+Slide 26: Magnesium is used in lightweight construction Titanium and titanium alloys high strength and heat resistance corrosion resistant Nickel corrosion resistance high heat resistance
+
+Slide 26: 
+
+Slide 27: 
+
+Slide 27: Ceramics
+
+Slide 27: 
+
+Slide 28: 
+
+Slide 28: Glasses
+
+Slide 28: 
+
+Slide 29: 
+
+Slide 29: Fibre composites
+
+Slide 29: 
+
+Slide 30: Properties of materials What kinds are there?
+
+Slide 31: 
+
+Slide 31: Overview
+
+Slide 31: 
+
+Slide 32: Mechanical properties Behaviour under mechanical loading Strength, stiffness, hardness Ductility, toughness Fatigue and wear behaviour Covered in more depth later in this course
+
+Slide 33: Thermal properties Behaviour under the influence of temperature Thermal conductivity, thermal expansion Specific heat capacity Melting and glass transition temperature
+
+Slide 34: Electrical and magnetic properties Electrical conductivity / resistivity Dielectric behaviour Magnetic permeability (e.g. ferromagnetic, paramagnetic)
+
+Slide 35: Chemical properties Corrosion resistance Reactivity, resistance to media (acids, alkalis, solvents) Oxidation behaviour
+
+Slide 36: Technological properties How well can a material be processed? Formability, machinability Weldability, castability Hardenability
+
+Slide 37: Ecological properties Carbon footprint of production and recycling Resource consumption, circularity Environmental impact over the life cycle Covered in more depth in the context section of this course
+
+Slide 38: Social properties Origin and extraction conditions of raw materials Working conditions in the supply chain Conflict minerals, human rights Covered in more depth in the context section of this course
+
+Slide 39: Mechanical properties What are important properties from an engineer's perspective?
+
+Slide 40: Mechanical properties What are important properties from an engineer's perspective? Material behaviour without damage Fatigue behaviour Wear behaviour temperature resistance strength when does damage occur Resistance to environmental effects (moisture, UV, corrosion) Carbon footprint and recyclability ...
+
+Slide 41: Stress-strain concept Covered in detail in engineering mechanics - strain - mechanical stress
+
+Slide 42: 1D strains Example:
+
+Slide 43: Thermal strain Material [ /K] Steel 12 Aluminium 23 Concrete 10-12 Thermoplastics 50-150 CFRP (in fibre direction) approx. 0 Different in joints and connections → stresses at every temperature change
+
+Slide 44: 1D stresses Example:
+
+Slide 45: More dimensionality
+
+Slide 46: 
+
+Slide 46: Symmetries isotropy transverse isotropy orthotropy ... anisotropy
+
+Slide 46: 
+
+Slide 47: Mechanical properties Reversible deformation, where the deformed material returns to its original shape immediately or after some time once the external load is removed: elastic and viscoelastic deformation; Irreversible (permanent) deformation, where the shape change remains even after the external load is removed: plastic and viscous deformation; Fracture, i.e. a separation of the material caused by the formation and propagation of cracks.
+
+Slide 48: 
+
+Slide 48: Steel example Curve determination Steel data sheet By Nicoguaro - Own work, CC BY 4.0
+
+Slide 48: 
+
+Slide 49: Material behaviour - reversible Elasticity reversible, energy-conserving Hooke's law, 1D Normal stress Shear stress
+
+Slide 50: 
+
+Slide 50: Fundamentals Normal strain [-] Normal stress , E - elastic modulus, Young's modulus Relevant e.g. for deformation analyses
+
+Slide 50: 
+
+Slide 51: 
+
+Slide 51: Fundamentals - lateral contraction Poisson's ratio [-] for homogeneous materials for heterogeneous materials other values are conceivable Relevant e.g. for press fits
+
+Slide 51: 
+
+Slide 52: 
+
+Slide 52: Fundamentals - shear Shear strains [-] Shear stress , Normal and shear stresses are not directly comparable; hence equivalent stresses G - shear modulus, shear modulus Relevant e.g. for torsion (drive trains, torsion springs)
+
+Slide 52: 
+
+Slide 53: 
+
+Slide 53: Fundamentals - compression Bulk modulus Relevant e.g. for hydraulics
+
+Slide 53: 
+
+Slide 54: Material E [GPa] G [GPa] ν [-] Unalloyed steel 200 77 0.30 Titanium 110 40 0.36 Copper 120 45 0.35 Aluminium 70 26 0.34 Magnesium 45 17 0.27 Tungsten 360 130 0.35 Cast iron with lamellar graphite 120 60 0.25 Thermoplastics/thermosets 2-5 1-2 ca. 0.35 Elastomers 0.1 0.03 0.45-0.49 Plywood 4-16 - - Note: values apply at room temperature . For plastics, E can drop significantly between 20 °C and 60 °C.
+
+Slide 55: 
+
+Slide 55: Stiffness How do material properties relate to stiffness? Material cross-section = stiffness Axial stiffness = Bending stiffness = Torsional stiffness = Image reference
+
+Slide 55: 
+
+Slide 56: Viscous behaviour irreversible time-dependent, strain-rate-dependent Spring model elastic component represented by spring elements Damper viscous component represented by damper elements
+
+Slide 57: 
+
+Slide 57: fast loading -> behaviour is elastic slow loading -> material flows fast loading Viscosity decreases with increasing temperature → in summer things flow faster (asphalt, plastic parts, adhesive joints)
+
+Slide 57: 
+
+Slide 58: Hardness Resistance of a material to the penetration of a harder test body Depends on: bond type and bond strength crystal structure microstructure and grain size alloying elements heat treatment Significance: wear resistance machinability
+
+Slide 59: Material behaviour - irreversible
+
+Slide 60: Strength The strength of a material describes the load-bearing capacity under mechanical loads before failure occurs, and is given as mechanical stress . Failure can be an unacceptable deformation , in particular a plastic (permanent) deformation , or a fracture . Important: strength stiffness
+
+Slide 61: Plasticity Forging Rolling
+
+Slide 62: Ductility Reduction of area (necking) A₀ = initial cross-sectional area [mm²] A_f = cross-sectional area at fracture [mm²] Z = reduction of area [%] The reduction of area describes the relative decrease in cross-section of a material under tensile loading up to fracture.
+
+Slide 63: Ductility assessment Interpretation of the reduction of area Z-value Ductility Material behaviour Z < 5% Brittle Ceramics, cast iron 5% ≤ Z < 20% Moderately ductile High-strength steels 20% ≤ Z < 50% Ductile Structural steels Z ≥ 50% Highly ductile Pure copper, aluminium
+
+Slide 64: Significance High reduction of area (Z > 40%) means: material can withstand large plastic deformations good formability (forging, deep drawing) fracture warning through visible necking high energy absorption before failure Low reduction of area (Z < 10%) means: brittle failure without warning low formability little energy absorption
+
+Slide 65: 
+
+Slide 65: Toughness (fracture work) True strain and stress F = force A = current cross-sectional area
+
+Slide 65: 
+
+Slide 66: 
+
+Slide 66: Toughness as energy absorption U = specific toughness [J/m³] ε_f = fracture strain By Nicoguaro - Own work, CC BY 4.0
+
+Slide 66: 
+
+Slide 67: A tough material combines: high strength (σ) → withstands high stresses high ductility (ε) → deforms significantly before fracture Toughness = a material's ability to survive under extreme conditions
+
+Slide 68: Toughness values of typical materials Material Toughness [MJ/m³] Characteristic Glass 0.01 Extremely brittle Cast iron 1-3 Brittle High-strength steel 50-100 Strong, moderately ductile Structural steel 100-200 Optimally tough Aluminium 70-200 Light and tough Copper 200-400 Highly ductile Rubber 10-100 Elastic-ductile
+
+Slide 69: Recap: climate and design values Stiffness, strength, ductility, and toughness all depend on temperature and time Heat → creep, softening, faster ageing Cold → embrittlement (e.g. steels below the transition temperature) Temperature cycling → thermal stresses and fatigue Sustainable design = the right material + long service life + circularity
+
+Slide 70: References Rainer Schwab: Werkstoffkunde und Werkstoffprüfung für Dummies, 2019; ISBN-10 352771538X Deutscher Wetterdienst: Klimawandel in Deutschland, https://www.dwd.de Copernicus Climate Change Service: Global Climate Highlights 2024, https://climate.copernicus.eu IPCC (2022): AR6 WGIII, Chapter 11 - Industry, https://www.ipcc.ch/report/ar6/wg3/ Umweltbundesamt: Klimafolgen und Anpassung, https://www.umweltbundesamt.de
